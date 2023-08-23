@@ -1,5 +1,5 @@
-#ifndef RAKIA_HAKIM_H
-#define RAKIA_HAKIM_H
+#ifndef DAMN_HELL_H
+#define DAMN_HELL_H
 
 #include <unistd.h>
 #include <limits.h>
