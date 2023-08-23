@@ -1,7 +1,11 @@
-#include "rakia_hakim.h"
+#include "DAMN_HELL.h"
+
+
 /**
  * execute_command - function to execute command
+ 
  * @pt: array of command arguments
+ 
  * Return: exit status of the executed command
  */
 int execute_command(char **pt)
